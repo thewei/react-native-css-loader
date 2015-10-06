@@ -1,0 +1,32 @@
+{
+  "name": "react-native-css-loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thewei/react-native-css-loader.git"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "css",
+    "webpack",
+    "loader",
+    "react-native-css",
+    "react-native-css-loader"
+  ],
+  "author": "thewei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thewei/react-native-css-loader/issues"
+  },
+  "homepage": "https://github.com/thewei/react-native-css-loader#readme",
+  "dependencies": {
+    "gulp-react-native-stylesheet-css": "^1.4.0",
+    "react-native": "^0.11.4"
+  }
+}
