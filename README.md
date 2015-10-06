@@ -17,7 +17,7 @@ var styles = require("react-native-css!./file.css");
 ```
 Or within the webpack config:
 ```js
-only css:
+// only css:
 module: {
   loaders: [{
     test: /\.css$/,
@@ -25,7 +25,7 @@ module: {
   }]
 }
 
-use stylus:
+// use stylus:
 module: {
   loaders: [{
     test: /\.styl$/,
@@ -33,7 +33,7 @@ module: {
   }]
 }
 
-use sass:
+// use sass:
 module: {
   loaders: [{
     test: /\.styl$/,
@@ -41,7 +41,7 @@ module: {
   }]
 }
 
-use less:
+// use less:
 module: {
   loaders: [{
     test: /\.styl$/,
