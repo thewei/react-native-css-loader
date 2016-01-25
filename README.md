@@ -6,6 +6,7 @@ You can use react-native-css-loader width react-native-webpack-server, which can
 
 ### Installation
 ```bash
+$ npm install react-native --save
 $ npm install react-native-css-loader --save-dev
 ```
 
